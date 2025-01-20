@@ -1,0 +1,43 @@
+{
+  "yhnp.screen.skills": "Attributes",
+  "yhnp.screen.traits": "Traits",
+  "yhnp.screen.classes": "Choose Your Class",
+  "yhnp.screen.class_select": "Confirm",
+  "yhnp.screen.level_label": "MC Levels Required",
+  "yhnp.screen.req_label": "%d of %d",
+
+  "strength": "Strength",
+  "survival": "Survival",
+  "combat": "Combat",
+  "tenacity": "Tenacity",
+  "crafting": "Crafting",
+  "cultivation": "Cultivation",
+  "dexterity": "Dexterity",
+  "wisdom": "Wisdom",
+
+  "container.skills": "Skills",
+  "container.traits": "Traits",
+  "overlay.message": "You can't use this!\n",
+  "overlay.message.require": "Require ",
+  "overlay.message.arrow": "You can't shoot!\n",
+  "overlay.message.spell": "You can't cast this!\n",
+  "overlay.stage_requirement":  "is required!",
+
+  "tooltip.requirements": "Requirements:",
+  "tooltip.stage_requirements": "Stage: %s",
+
+  "key.yhnp.category": "Skillable Reborn",
+  "key.yhnp.open_stats_menu": "Open Stats Menu",
+
+  "commands.add_skill.success": "A skill point added to %s",
+  "commands.add_stats.success": "Added a point of %s to %s",
+  "commands.add_level.success": "A level added to %s",
+  "commands.set_skill.success": "%d skill point(s) defined to %s",
+  "commands.set_stats.success": "%d points of %s defined to %s",
+  "commands.rem_skill.success": "A skill point removed from %s",
+  "commands.rem_stats.success": "Removed a point of %s from %s",
+  "commands.clear_level.success": "Removed all levels from %s",
+  "commands.reset.success": "Removed all levels, stats and skill points from %s",
+
+  "item.yhnp.skillbook": "Skill Book"
+}

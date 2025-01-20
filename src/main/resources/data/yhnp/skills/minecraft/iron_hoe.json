@@ -1,0 +1,12 @@
+{
+  "requirements": [
+    {
+      "attribute": "survival",
+      "level": 2
+    },
+    {
+      "attribute": "cultivation",
+      "level": 2
+    }
+  ]
+}

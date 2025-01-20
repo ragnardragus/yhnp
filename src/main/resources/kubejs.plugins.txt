@@ -1,0 +1,1 @@
+com.ragnardragus.yhnp.compat.kubejs.ModJSPlugin

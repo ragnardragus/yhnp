@@ -1,0 +1,12 @@
+{
+  "requirements": [
+    {
+      "attribute": "crafting",
+      "level": 3
+    },
+    {
+      "attribute": "strength",
+      "level": 3
+    }
+  ]
+}

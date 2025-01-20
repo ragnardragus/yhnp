@@ -1,0 +1,12 @@
+{
+  "requirements": [
+    {
+      "attribute": "tenacity",
+      "level": 5
+    },
+    {
+      "attribute": "combat",
+      "level": 3
+    }
+  ]
+}
